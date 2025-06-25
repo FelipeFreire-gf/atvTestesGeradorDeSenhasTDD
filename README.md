@@ -28,7 +28,7 @@ Um aplicativo de desktop simples e robusto para gerar senhas seguras, construíd
 
 1.  **Clone o repositório:**
     ```bash
-    git clone <https://github.com/FelipeFreire-gf/AtividadesTestes>
+    git clone https://github.com/FelipeFreire-gf/atvTestesGeradorDeSenhasTDD
     ```
 2.  **Navegue até a pasta do projeto:**
     ```bash
